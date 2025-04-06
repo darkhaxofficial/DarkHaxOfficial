@@ -1,4 +1,12 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/DarkHaxOfficial/DarkHaxOfficial/main/banner.png" width="100%" />
+
+## 💻 DarkHaxOfficial
+> “I learn your system... before you do.”
+
+🕶️ Ethical Hacker in progress  
+🧠 Python • Kali • Wireshark  
+🧩 Seen? Maybe. Traced? Never.
+
 
 <!--
 **darkhaxofficial/DarkHaxOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
